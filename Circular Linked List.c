@@ -91,7 +91,7 @@ void ins_at_pos(int k,int pos)
 }
 void del_at_beg()
 {
-	if(head==NULL)
+	if(Head==NULL)
 	{
 		printf("No nodes available!\n");
 	}
